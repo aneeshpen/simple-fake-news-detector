@@ -18,7 +18,7 @@ The dataset used for this project is `news.csv`. It contains:
 - `text`: The main content of the news article.
 - `label`: `FAKE` or `REAL`.
 
-**Note:** The dataset is included in the repository or can be downloaded from [https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/].
+**Note:** The dataset is included in the repository or can be downloaded from [here](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/).
 
 ---
 

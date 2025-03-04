@@ -1,7 +1,7 @@
 
 # Fake News Detection 📰🔍
 
-A machine learning mini project that detects whether a news article is fake or real using the **Passive Aggressive Classifier** and **TF-IDF Vectorization**.
+A machine learning model that detects whether a news article is fake or real using the **Passive Aggressive Classifier** and **TF-IDF Vectorization**.
 
 ---
 
